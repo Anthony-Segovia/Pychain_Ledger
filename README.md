@@ -1,5 +1,3 @@
-# Pychain Ledger
-
 # PyChain Ledger
 
 ![application-image](https://user-images.githubusercontent.com/93535862/164895301-acf5dfaf-768b-4089-b68d-9427fa0553fe.png)
